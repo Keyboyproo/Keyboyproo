@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO RJ" tvg-logo="" group-title="CANAIS",GLOBO RJ
+https://esporteone.com/player/canais.php?canal=GLOBORJSD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO SP HD" tvg-logo="" group-title="CANAIS",GLOBO SP HD
+https://esporteone.com/player/canais.php?canal=GLOBOSPHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO NEWS SD" tvg-logo="" group-title="CANAIS",GLOBO NEWS SD
+https://esporteone.com/player/canais.php?canal=GLOBONEWSSD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO NEWS HD" tvg-logo="" group-title="CANAIS",GLOBO NEWS HD
+https://esporteone.com/player/canais.php?canal=GLOBONEWSHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BANDNEWS SD" tvg-logo="" group-title="CANAIS",BANDNEWS SD
+https://esporteone.com/player/canais.php?canal=BANDNEWSSD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="BANDNEWS HD" tvg-logo="" group-title="CANAIS",BANDNEWS HD
+https://esporteone.com/player/canais.php?canal=BANDNEWSHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CNN BRASIL SD" tvg-logo="" group-title="CANAIS",CNN BRASIL SD
+https://esporteone.com/player/canais.php?canal=CNNBRASILSD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="CNN BRASIL HD" tvg-logo="" group-title="CANAIS",CNN BRASIL HD
+https://esporteone.com/player/canais.php?canal=CNNBRASILHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RECORD" tvg-logo="" group-title="CANAIS",RECORD SD
+https://esporteone.com/player/canais.php?canal=RECORDSD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RECORD" tvg-logo="" group-title="CANAIS",RECORD HD
+https://esporteone.com/player/canais.php?canal=RECORDHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV SD" tvg-logo="" group-title="CANAIS",SPORTV SD
+https://esporteone.com/player/canais.php?canal=SPORTVSD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="SPORTV HD" tvg-logo="" group-title="CANAIS",SPORTV HD
+https://esporteone.com/player/canais.php?canal=SPORTVHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="TNT SERIES SD" tvg-logo="" group-title="CANAIS",TNT SERIES SD
+https://esporteone.com/player/canais.php?canal=TNTSERIESSD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="TNT SERIES HD" tvg-logo="" group-title="CANAIS",TNT SERIES HD
+https://esporteone.com/player/canais.php?canal=TNTSERIESHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="AXN SD" tvg-logo="" group-title="CANAIS",AXN SD
+https://esporteone.com/player/canais.php?canal=AXNSD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="AXN HD" tvg-logo="" group-title="CANAIS",AXN HD
+https://esporteone.com/player/canais.php?canal=AXNHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="TELECINE ACTION SD" tvg-logo="" group-title="CANAIS",TELECINE ACTION SD
+https://esporteone.com/player/canais.php?canal=TELECINEACTIONSD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="TELECINE ACTION HD" tvg-logo="" group-title="CANAIS",TELECINE ACTION HD
+https://esporteone.com/player/canais.php?canal=TELECINEACTIONHD
+
+
+
+
+
