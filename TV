@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO RJ" tvg-logo="" group-title="CANAIS",GLOBO RJ
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO RJ" tvg-logo="http://trenduhd.xyz/images/Filmes_Series/AE.png" group-title="CANAIS",GLOBO RJ
 https://esporteone.com/player/canais.php?canal=GLOBORJSD
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO SP HD" tvg-logo="" group-title="CANAIS",GLOBO SP HD
 https://esporteone.com/player/canais.php?canal=GLOBOSPHD
